@@ -80,3 +80,5 @@ python analyze_cac.py
 ## LLM Assistance
 This analysis, code, and narrative were generated with the assistance of **ChatGPT Codex (Jules)** / ChatGPT.  
 Include this note and commit messages referencing LLM assistance to make provenance explicit.
+
+_PR created with ChatGPT Codex (Jules)._)
